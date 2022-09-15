@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["6289519240209@s.whatsapp.net"],
+    "ownerName": "Alome",
+    "instagram" : "https://instagram.com/zeeoneofc",
+    "botName": "Alome2-Mdོ ",
+    "footer": "api.zeeoneofc.xyz",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "Gsyt6jRJ",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
